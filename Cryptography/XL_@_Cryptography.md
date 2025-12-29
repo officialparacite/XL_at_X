@@ -8,7 +8,6 @@
 
 ## Games & Activities
 - [Crypto Hack](https://cryptohack.org/)
-- cryptopals
-- picoCTF (crypto)
-- OverTheWire Krypton
+- [cryptopals](https://www.cryptopals.com/)
+- [OverTheWire Krypton](https://overthewire.org/wargames/krypton/)
 
