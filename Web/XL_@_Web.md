@@ -55,7 +55,7 @@
 ## Web Exploitation Attacks
 - IDOR + Auth logic
 - SQL Injection
-- XSS (context-based)
+- [XSS (context-based)](https://www.youtube.com/watch?v=0GxLc2vsQVg)
 - File Upload + LFI
 - CSRF
 - API logic bugs
