@@ -1,21 +1,21 @@
 # Networking
 
 ## Networking Fundamentals
-- [Practical Networking] (https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
+- [Practical Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
 
 ## Subnetting Mastery
-- [Practical Networking] (https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE)
+- [Practical Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE)
 
 ## Network Address Translation
-- [Practical Networking] (https://www.youtube.com/playlist?list=PLIFyRwBY_4bQ7tJvbLA9A0v8Fq9l-H923)
+- [Practical Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bQ7tJvbLA9A0v8Fq9l-H923)
 
 ## SSL/TLS
-- [Free Practical Networking] (https://www.youtube.com/playlist?list=PLIFyRwBY_4bTwRX__Zn4-letrtpSj1mzY)
-- [FULL Paid Course] (https://classes.pracnet.net/courses/practical-tls)
+- [Free Practical Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bTwRX__Zn4-letrtpSj1mzY)
+- [FULL Paid Course](https://classes.pracnet.net/courses/practical-tls)
 
 ## Games & Activities
-- [Tunnet (optional)] (https://store.steampowered.com/app/2286390/Tunnet/)
-- [Cisco Packet Tracer] (https://www.netacad.com/cisco-packet-tracer)
+- [Tunnet (optional)](https://store.steampowered.com/app/2286390/Tunnet/)
+- [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer)
 
 ## Tools & Commands
 
