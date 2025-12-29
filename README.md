@@ -1,6 +1,7 @@
 # XL_@_X
-- Automation
 - AWS
+- Assembly
+- Automation
 - Cryptography
 - Linux
 - Networking
