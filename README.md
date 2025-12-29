@@ -4,3 +4,4 @@
 - Networking
 - Programming
 - Web
+- Neovim
