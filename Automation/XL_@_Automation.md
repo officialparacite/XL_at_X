@@ -6,12 +6,12 @@
 
 ## 1. Web Automation
 
-- Playwright        (full browser control, JS-first)
+- [Playwright](https://www.udemy.com/share/106WtW3@KiESVM8729OsJ9ANoDcJNsRZqn1s0H0LRJfoaDOmvVs5huA0qavkr0CnFroZ0m0R-w==/)
 
 ### Client-Side Injection & Control
 
-- Tampermonkey      (user scripts)
-- Bookmarklets      (JS-in-URL tricks)
+- Tampermonkey
+- Bookmarklets
 
 ### API Automation
 
