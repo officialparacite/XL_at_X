@@ -1,12 +1,10 @@
 ---
 
-# Automation Mastery (Web → System → Network)
+# Automation
 
 ---
 
-## 1. Web Automation (Browser-Level)
-
-### Core (Must-have)
+## 1. Web Automation
 
 - Playwright        (full browser control, JS-first)
 
@@ -44,7 +42,7 @@
 
 ---
 
-## 3. System-Level Automation (OS & Services)
+## 3. System-Level Automation
 
 ### Linux
 
@@ -60,7 +58,7 @@
 
 ---
 
-## 4. CLI & Script Automation (Glue Layer)
+## 4. CLI & Script Automation
 
 - Bash
 - Python
