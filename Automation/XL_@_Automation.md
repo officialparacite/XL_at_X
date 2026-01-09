@@ -93,3 +93,9 @@
 - Message queues (conceptual)
 
 ---
+
+## 8. Workflow Automation
+
+- n8n
+
+---
